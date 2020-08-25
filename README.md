@@ -1,2 +1,2 @@
 # Hamoye-DS-Quiz-Code
-My answers to the hamoye stage A data science quiz
+My answers to the hamoye data science quiz
